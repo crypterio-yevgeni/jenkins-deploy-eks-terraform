@@ -1,7 +1,7 @@
+![alt text](images/image.png)
+
 # jenkins-k8s-terraform
 This project demonstrates an end-to-end deployment of an Nginx web server using Jenkins, Kubernetes, and Terraform on AWS. The infrastructure will be provisioned with Terraform, and the Nginx web server will be deployed within an EKS cluster managed by Jenkins. The project follows a structured approach, with each step building upon the previous one.
-
-![alt text](images/image.png)
 
 ## Technologies Used
 - **Jenkins**: For continuous integration and deployment.
